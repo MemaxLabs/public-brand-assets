@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" role="img" aria-label="MemaxLabs brand color palette">
+  <title>MemaxLabs Brand Colors</title>
+  <!-- Primary -->
+  <rect x="0"   y="0" width="40" height="60" fill="#0066FF" rx="4"/>
+  <text x="20"  y="74" font-family="monospace" font-size="8" text-anchor="middle" fill="#0A0A1A">#0066FF</text>
+  <!-- Primary Dark -->
+  <rect x="50"  y="0" width="40" height="60" fill="#0047B3" rx="4"/>
+  <text x="70"  y="74" font-family="monospace" font-size="8" text-anchor="middle" fill="#0A0A1A">#0047B3</text>
+  <!-- Accent -->
+  <rect x="100" y="0" width="40" height="60" fill="#00D4FF" rx="4"/>
+  <text x="120" y="74" font-family="monospace" font-size="8" text-anchor="middle" fill="#0A0A1A">#00D4FF</text>
+  <!-- Dark -->
+  <rect x="150" y="0" width="40" height="60" fill="#0A0A1A" rx="4"/>
+  <text x="170" y="74" font-family="monospace" font-size="8" text-anchor="middle" fill="#0A0A1A">#0A0A1A</text>
+  <!-- Light -->
+  <rect x="200" y="0" width="40" height="60" fill="#F5F7FF" rx="4" stroke="#E0E4F0" stroke-width="1"/>
+  <text x="220" y="74" font-family="monospace" font-size="8" text-anchor="middle" fill="#0A0A1A">#F5F7FF</text>
+</svg>

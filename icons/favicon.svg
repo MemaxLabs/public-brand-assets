@@ -1,0 +1,18 @@
+<svg width="32" height="32" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MemaxLabs favicon">
+  <title>MemaxLabs</title>
+  <!--
+    Favicon variant: uses a single solid filled M-shape (no inner outline).
+    The inner outline detail present in memax-icon.svg is intentionally omitted
+    here for better legibility at small sizes (16px–32px).
+  -->
+  <style>
+    path { fill: #000000; }
+    @media (prefers-color-scheme: dark) {
+      path { fill: #ffffff; }
+    }
+  </style>
+  <g transform="translate(256, 256) scale(2.0) translate(-255.5, -204)">
+    <path d="M256 109L371 262H308L256 193L204 262H140L256 109Z"/>
+    <path d="M235.931 240.563L224.459 255.756L255.843 299.068L287.465 255.966L275.768 240.649L255.925 267.552L235.931 240.563Z"/>
+  </g>
+</svg>
