@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120" role="img" aria-label="MemaxLabs logo (light/white variant)">
   <title>MemaxLabs (Light Variant)</title>
-  <!-- Logomark -->
-  <g transform="translate(10, 10)">
-    <!-- Outer hexagon -->
-    <polygon points="50,0 95,25 95,75 50,100 5,75 5,25" fill="#FFFFFF" />
-    <!-- Inner M shape -->
-    <polyline points="20,70 20,30 50,55 80,30 80,70" fill="none" stroke="#0066FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
+  <!-- Logomark (icon, white for colorful/dark backgrounds) -->
+  <svg x="10" y="15" width="90" height="90" viewBox="0 0 512 512">
+    <g transform="translate(256, 256) scale(2.0) translate(-255.5, -204)">
+      <path fill="#ffffff" d="M256 109L371 262H308L256 193L204 262H140L256 109ZM256 140L177 244H194L256 162L318 244H335L256 140Z"/>
+      <path fill="#ffffff" d="M235.931 240.563L224.459 255.756L255.843 299.068L287.465 255.966L275.768 240.649L255.925 267.552L235.931 240.563Z"/>
+    </g>
+  </svg>
   <!-- Wordmark -->
-  <text x="125" y="58" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">Memax</text>
-  <text x="125" y="88" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="400" fill="#FFFFFF" letter-spacing="4">LABS</text>
+  <text x="115" y="58" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">Memax</text>
+  <text x="115" y="88" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="400" fill="#FFFFFF" letter-spacing="4">LABS</text>
 </svg>

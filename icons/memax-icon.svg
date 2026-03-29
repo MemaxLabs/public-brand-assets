@@ -1,7 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="MemaxLabs icon">
+<svg width="32" height="32" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MemaxLabs icon">
   <title>MemaxLabs Icon</title>
-  <!-- Outer hexagon -->
-  <polygon points="50,2 94,26 94,74 50,98 6,74 6,26" fill="#0066FF" />
-  <!-- Inner M shape -->
-  <polyline points="22,72 22,28 50,55 78,28 78,72" fill="none" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <style>
+    path { fill: #000000; }
+    @media (prefers-color-scheme: dark) {
+      path { fill: #ffffff; }
+    }
+  </style>
+  <g transform="translate(256, 256) scale(2.0) translate(-255.5, -204)">
+    <path d="M256 109L371 262H308L256 193L204 262H140L256 109ZM256 140L177 244H194L256 162L318 244H335L256 140Z"/>
+    <path d="M235.931 240.563L224.459 255.756L255.843 299.068L287.465 255.966L275.768 240.649L255.925 267.552L235.931 240.563Z"/>
+  </g>
 </svg>

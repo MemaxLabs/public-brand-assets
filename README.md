@@ -18,6 +18,7 @@ public-brand-assets/
 ├── icons/               # App icons and favicons
 │   ├── memax-icon.svg
 │   ├── memax-icon.png
+│   ├── favicon.svg
 │   ├── favicon-32x32.png
 │   └── favicon-16x16.png
 ├── colors/              # Brand color swatches and references
@@ -47,8 +48,9 @@ public-brand-assets/
 
 | File | Format | Description |
 |------|--------|-------------|
-| `icons/memax-icon.svg` | SVG | App icon / logomark |
+| `icons/memax-icon.svg` | SVG | App icon / logomark (full detail with inner outline, for larger sizes) |
 | `icons/memax-icon.png` | PNG (256×256) | App icon raster |
+| `icons/favicon.svg` | SVG | Favicon (solid filled M-shape without inner outline, optimized for 16–32px) |
 | `icons/favicon-32x32.png` | PNG (32×32) | Favicon |
 | `icons/favicon-16x16.png` | PNG (16×16) | Favicon (small) |
 
