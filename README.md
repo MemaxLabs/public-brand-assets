@@ -104,4 +104,4 @@ See [`COPYRIGHT`](COPYRIGHT) for the full copyright notice.
 ## 📬 Contact
 
 For brand-related inquiries or permissions not covered by these terms, contact:  
-**brand@memaxlabs.com**
+**team@memaxlabs.com**
